@@ -1,4 +1,5 @@
 .data/
 .ipynb_checkpoints/
+.gitignore
 *.pt
 .DS_Store
